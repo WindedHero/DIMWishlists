@@ -1,5 +1,5 @@
 // Horror Story
-// dimwishlist:item=3829285960
+// item 3829285960
 //Celestine Hood (Magnificent)
 dimwishlist:item=139281386
 //Solstice Hood (Magnificent)
