@@ -1,32 +1,53 @@
 // Horror Story
 // item 3829285960
 //Celestine Hood (Magnificent)
-dimwishlist:item=139281386
+dimwishlist:item=139281386&perks=
 //Solstice Hood (Magnificent)
-dimwishlist:item=1858878452
+dimwishlist:item=1858878452&perks=
 //Solstice Hood (Majestic)
-dimwishlist:item=2546370410
+dimwishlist:item=2546370410&perks=
 //Solstice Hood (Magestic) (Season of Opulence)
-dimwishlist:item=3359671646
+dimwishlist:item=3359671646&perks=
 //Solstice Hood (Resplendent) (Warmind)
-dimwishlist:item=545021994
+dimwishlist:item=545021994&perks=
 //Illuminus Mask (Magnificent)
-dimwishlist:item=343482209
+dimwishlist:item=343482209&perks=
 //Solstice Mask (Magnificent)
-dimwishlist:item=3742741341
+dimwishlist:item=3742741341&perks=
 //Solstice Mask (Majestic)
-dimwishlist:item=3159052337
+dimwishlist:item=3159052337&perks=
 //Solstice Mask (Majestic) (Season of Opulence)
-dimwishlist:item=1597235361
+dimwishlist:item=1597235361&perks=
 //Solstice Mask (Resplendent) (Warmind)
-dimwishlist:item=622966241
+dimwishlist:item=622966241&perks=
 //Solstice Helm (Magnificent)
-dimwishlist:item=3081894763
+dimwishlist:item=3081894763&perks=
 //Solstice Helm (Majestic)
-dimwishlist:item=1510405477
+dimwishlist:item=1510405477&perks=
 //Solstice Helm (Majestic) (Season of Opulence)
-dimwishlist:item=536106547
+dimwishlist:item=536106547&perks=
 //Solstice Helm (Resplendent) (Warmind)
-dimwishlist:item=3915635973
+dimwishlist:item=3915635973&perks=
 //Sunstead Helm (Magnificent)
-dimwishlist:item=2809967987
+dimwishlist:item=2809967987&perks=
+
+// Something New
+//notes:[KackisHD] https://www.youtube.com/watch?v=DDXHlauasDQ
+//Appended Mag+Wellspring+Demolitionist
+dimwishlist:item=1856262127&perks=1087426260,3592538738,3523296417
+//Extended Mag+Wellspring+Demolitionist
+dimwishlist:item=1856262127&perks=2420895100,3592538738,3523296417
+//Flared Magwell+Wellspring+Demolitionist
+dimwishlist:item=1856262127&perks=3230963543,3592538738,3523296417
+//Appended Mag+Feeding Frenzy+Multikill Clip
+dimwishlist:item=1856262127&perks=1087426260,2779035018,2458213969
+//Extended Mag+Feeding Frenzy+Multikill Clip
+dimwishlist:item=1856262127&perks=2420895100,2779035018,2458213969
+//Flared Magwell+Feeding Frenzy+Multikill Clip
+dimwishlist:item=1856262127&perks=3230963543,2779035018,2458213969
+//Appended Mag+Feeding Frenzy+Headstone
+dimwishlist:item=1856262127&perks=1087426260,2779035018,124408337
+//Extended Mag+Feeding Frenzy+Headstone
+dimwishlist:item=1856262127&perks=2420895100,2779035018,124408337
+//Flared Magwell+Feeding Frenzy+Headstone
+dimwishlist:item=1856262127&perks=3230963543,2779035018,124408337
