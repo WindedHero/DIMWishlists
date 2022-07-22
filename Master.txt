@@ -32,24 +32,15 @@ dimwishlist:item=3915635973
 dimwishlist:item=2809967987
 
 // Something New
-//notes:[KackisHD] https://www.youtube.com/watch?v=DDXHlauasDQ
-//Appended Mag+Wellspring+Demolitionist
+//notes:[KackisHD] https://www.youtube.com/watch?v=DDXHlauasDQ Appended Mag/Extended Mag/Flared Magwell, Wellspring+Demolitionist/Feeding Frenzy+Multikill Clip/Feeding Frenzy+Headstone
 dimwishlist:item=1856262127&perks=1087426260,3592538738,3523296417
-//Extended Mag+Wellspring+Demolitionist
 dimwishlist:item=1856262127&perks=2420895100,3592538738,3523296417
-//Flared Magwell+Wellspring+Demolitionist
 dimwishlist:item=1856262127&perks=3230963543,3592538738,3523296417
-//Appended Mag+Feeding Frenzy+Multikill Clip
 dimwishlist:item=1856262127&perks=1087426260,2779035018,2458213969
-//Extended Mag+Feeding Frenzy+Multikill Clip
 dimwishlist:item=1856262127&perks=2420895100,2779035018,2458213969
-//Flared Magwell+Feeding Frenzy+Multikill Clip
 dimwishlist:item=1856262127&perks=3230963543,2779035018,2458213969
-//Appended Mag+Feeding Frenzy+Headstone
 dimwishlist:item=1856262127&perks=1087426260,2779035018,124408337
-//Extended Mag+Feeding Frenzy+Headstone
 dimwishlist:item=1856262127&perks=2420895100,2779035018,124408337
-//Flared Magwell+Feeding Frenzy+Headstone
 dimwishlist:item=1856262127&perks=3230963543,2779035018,124408337
 
 //notes:[Luckyy10p] https://www.youtube.com/watch?v=Y5CDkzcFC_0
