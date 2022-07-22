@@ -31,8 +31,8 @@ dimwishlist:item=3915635973
 //Sunstead Helm (Magnificent)
 dimwishlist:item=2809967987
 
-// Something New
-//notes:[KackisHD] https://www.youtube.com/watch?v=DDXHlauasDQ Appended Mag/Extended Mag/Flared Magwell, Wellspring+Demolitionist/Feeding Frenzy+Multikill Clip/Feeding Frenzy+Headstone
+// Something New (PvE)
+//notes:[KackisHD] https://www.youtube.com/watch?v=DDXHlauasDQ
 dimwishlist:item=1856262127&perks=1087426260,3592538738,3523296417
 dimwishlist:item=1856262127&perks=2420895100,3592538738,3523296417
 dimwishlist:item=1856262127&perks=3230963543,3592538738,3523296417
@@ -43,6 +43,7 @@ dimwishlist:item=1856262127&perks=1087426260,2779035018,124408337
 dimwishlist:item=1856262127&perks=2420895100,2779035018,124408337
 dimwishlist:item=1856262127&perks=3230963543,2779035018,124408337
 
+//Something New (PvP)
 //notes:[Luckyy10p] https://www.youtube.com/watch?v=Y5CDkzcFC_0
 dimwishlist:item=1856262127&perks=1840239774,1885400500,3592538738,438098033#notes:
 dimwishlist:item=1856262127&perks=1840239774,1087426260,3592538738,438098033#notes:
