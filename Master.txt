@@ -1,35 +1,35 @@
 // Horror Story
 // item 3829285960
 //Celestine Hood (Magnificent)
-dimwishlist:item=139281386&perks=69420
+dimwishlist:item=139281386
 //Solstice Hood (Magnificent)
-dimwishlist:item=1858878452&perks=69420
+dimwishlist:item=1858878452
 //Solstice Hood (Majestic)
-dimwishlist:item=2546370410&perks=69420
+dimwishlist:item=2546370410
 //Solstice Hood (Magestic) (Season of Opulence)
-dimwishlist:item=3359671646&perks=69420
+dimwishlist:item=3359671646
 //Solstice Hood (Resplendent) (Warmind)
-dimwishlist:item=545021994&perks=69420
+dimwishlist:item=545021994
 //Illuminus Mask (Magnificent)
-dimwishlist:item=343482209&perks=69420
+dimwishlist:item=343482209
 //Solstice Mask (Magnificent)
-dimwishlist:item=3742741341&perks=69420
+dimwishlist:item=3742741341
 //Solstice Mask (Majestic)
-dimwishlist:item=3159052337&perks=69420
+dimwishlist:item=3159052337
 //Solstice Mask (Majestic) (Season of Opulence)
-dimwishlist:item=1597235361&perks=69420
+dimwishlist:item=1597235361
 //Solstice Mask (Resplendent) (Warmind)
-dimwishlist:item=622966241&perks=69420
+dimwishlist:item=622966241
 //Solstice Helm (Magnificent)
-dimwishlist:item=3081894763&perks=69420
+dimwishlist:item=3081894763
 //Solstice Helm (Majestic)
-dimwishlist:item=1510405477&perks=69420
+dimwishlist:item=1510405477
 //Solstice Helm (Majestic) (Season of Opulence)
-dimwishlist:item=536106547&perks=69420
+dimwishlist:item=536106547
 //Solstice Helm (Resplendent) (Warmind)
-dimwishlist:item=3915635973&perks=69420
+dimwishlist:item=3915635973
 //Sunstead Helm (Magnificent)
-dimwishlist:item=2809967987&perks=69420
+dimwishlist:item=2809967987
 
 // Something New
 //notes:[KackisHD] https://www.youtube.com/watch?v=DDXHlauasDQ
